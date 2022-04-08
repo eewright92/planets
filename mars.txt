@@ -3,5 +3,5 @@ The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity and appreciate the lack of the color blue.
 What if I added another line?
 We also need to consider Dracula's aversion to the sun.
-Will the different gravity matter?
+Will the different gravity matter? This should be fixed now.
 We also need to think about food.
